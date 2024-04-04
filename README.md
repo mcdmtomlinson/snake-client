@@ -8,10 +8,6 @@ The goal? Navigate your serpent around the screen, avoiding walls and, of course
 
 But wait, there's more! This version adds a twist: multiplayer! Compete with other players to see whose snake reigns supreme. Will your snake slither its way to the top or become a tangled mess of regret?
 
-## Final Product
-
-!["a grey screen with a colourful line representing a snake, and a red dot that it needs to move towards to eat"](snake-screen.png)
-
 
 ## Getting Started
 
